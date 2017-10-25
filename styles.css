@@ -1,0 +1,74 @@
+body{
+	background-image: url(images/background.jpg);
+}
+h1{
+	background-color: lightgrey;
+	text-align: center;
+	font-family: "Verdana";
+	font-style: bold;
+}
+h2{
+	background-color: lightgrey;
+	text-align: center;
+	font-family: "Verdana";
+	font-style: bold;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+p{
+	background-color: lightgrey;
+	font-family: "Verdana";
+	font-style: bold;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+a{
+	color:purple;
+}
+a:visited{
+	color:rgb(63,5,63);
+}
+a:hover{
+	color: plum;
+}
+.italics{
+	font-style: italic;
+}
+.whiteBackground{
+	background-color: white;
+}
+.smallerFont{
+	font-size: 20px;
+}
+.floatLeft{
+	float: left;
+}
+.floatRight{
+	float: right;
+}
+#ContactTable{
+	background-color: white;
+	font-family: "Verdana";
+	font-style: bold;
+	font-size: 24px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#HomePagePortrait{
+	height: 550px;
+	width: 450px;
+	padding-right: 30px;
+	align-self: center;
+	float: right;
+}
+#HomePageMenu{
+	float:left;
+}
+#HomePageMenu2{
+	float:left;
+}
+#HomePagePadding{
+		padding-top: 86px;
+	padding-bottom: 86px;	
+}
